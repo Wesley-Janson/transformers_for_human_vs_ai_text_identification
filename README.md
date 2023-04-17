@@ -1,1 +1,5 @@
-# transformers_for_human_vs_ai_text_identification
+# Transformers for Human vs. AI Text Identification:
+## A Case Study in Wikipedia
+### CAPP 30255: Advanced Machine Learning
+### Wesley Janson, Piper Kurtz, Samuel Pavlekovsky
+
