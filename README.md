@@ -11,7 +11,7 @@
 
 * BoW.ipynb: Jupyter notebook that first bag-of-words model on data, plots accuracy metrics.
 
-* CNN.ipynb:
+* CNN.ipynb: Jupyter notebook that fits CNN model, produces plots of accuracy metrics.
 
 * data_loader.ipynb:
 
