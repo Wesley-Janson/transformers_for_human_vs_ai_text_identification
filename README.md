@@ -6,7 +6,7 @@
 
 
 
-*survey_analysis.ipynb: Jupyter notebook that computes survey accuracy metrics reported in final paper.
+* survey_analysis.ipynb: Jupyter notebook that computes survey accuracy metrics reported in final paper.
 
 
 ### Subfolders
