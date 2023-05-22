@@ -13,7 +13,7 @@
 
 * CNN.ipynb:
 
-* data_loader.py:
+* data_loader.ipynb:
 
 * survey_analysis.ipynb: Jupyter notebook that computes survey accuracy metrics reported in final paper.
 
