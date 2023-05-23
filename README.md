@@ -13,7 +13,7 @@
 
 * CNN.ipynb: Jupyter notebook that fits CNN model, produces plots of accuracy metrics.
 
-* data_loader.ipynb:
+* data_loader.ipynb: Jupyter notebook for data processing and tokenizing.
 
 * survey_analysis.ipynb: Jupyter notebook that computes survey accuracy metrics reported in final paper.
 
